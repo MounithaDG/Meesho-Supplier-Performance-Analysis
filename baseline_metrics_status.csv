@@ -1,0 +1,5 @@
+metric,calculation,status
+OTIF rate (%),OTIF records / total eligible records * 100,Pending correct PO dataset
+Defect rate (%),Defect units / received units * 100,Pending correct PO dataset
+Average lead-time variance (days),Mean(actual lead time - planned lead time),Pending correct PO dataset
+OTIF alert threshold (%),Alert when supplier OTIF is below 85%,Defined by project brief
